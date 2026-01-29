@@ -2,8 +2,8 @@
 export default defineNuxtConfig({
  runtimeConfig: {
     public: {
-      apiBase: 'https://api.asd.mauj.ac.in/api',
-      authBase: 'https://api.asd.mauj.ac.in'
+      apiBase: 'https://api.asd.XXX.XX.in/api',
+      authBase: 'https://api.asd.XXX.XX.in'
     },
   },
 app: {
